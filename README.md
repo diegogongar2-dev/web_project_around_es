@@ -37,4 +37,4 @@ También puedes:
 
 ## Ver la versión en línea
 
-🔗 [Ver en GitHub Pages](https://TU-USUARIO.github.io/web_project_around_es/)
+🔗 [Ver en GitHub Pages](https://diegogongar2-dev.github.io/web_project_around_es/)
